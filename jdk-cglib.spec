@@ -1,6 +1,6 @@
 Name     : jdk-cglib
 Version  : RELEASE.3.2.4
-Release  : 1
+Release  : 2
 URL      : https://github.com/cglib/cglib/archive/RELEASE_3_2_4.tar.gz
 Source0  : https://github.com/cglib/cglib/archive/RELEASE_3_2_4.tar.gz
 Summary  : No detailed summary available
